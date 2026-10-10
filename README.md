@@ -31,8 +31,8 @@ This way, anyone visiting can quickly see the scope of my contributions.
 
 ### `Path`
 
-1. Python's - Fury
-2. Python's - ilastik
-3. HumanAI 
+1. Python's - [Fury](./Fury)
+2. Python's - [ilastik](./ilastik)
+3. AI - [HumanAI](./HumanAI)
 
 
