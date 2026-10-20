@@ -1,15 +1,15 @@
 # `𝙿𝚁𝚜 𝙼𝚎𝚛𝚐𝚎𝚍 𝚊𝚗𝚍 𝙸𝚜𝚜𝚞𝚎𝚜 𝚂𝚘𝚕𝚟𝚎𝚍`
 
-This file tracks the pull requests that have been merged and the issues I’ve helped solve across Fury.
+This file tracks the pull requests that have been merged and the issues I’ve helped solve across Datashader.
 
 ---
 
 ### ✅ PRs Merged
-- [PR #652](https://github.com/fury-gl/fury/pull/652) – Fix kernel window crash.  
+- [PR #1547](https://github.com/holoviz/datashader/pull/1547) – Cleaned Ruff Findings across the Datashader codebase chore: Run ruff lint for codebase
 
 ---
 
 ### 🛠️ Issues Solved with Discussions
-- [Issue #652](https://github.com/fury-gl/fury/issues/652) – Kernel crash debugging, provided reproducible steps and fix.  
+- 
 
 ---
