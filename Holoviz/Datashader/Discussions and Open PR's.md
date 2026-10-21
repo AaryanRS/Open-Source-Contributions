@@ -13,6 +13,7 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 ### 🗣️ Discussions
 - [Discussion #1380](https://github.com/holoviz/datashader/issues/1380) – summary with cvs.line and line_width is sensitive to other inputs in summary
 - [Discussion #1547](https://github.com/holoviz/datashader/pull/1547) – chore: Run ruff lint for codebase- #1547
+- [Discussion #1353](https://github.com/holoviz/datashader/issues/1353) - Error while groupby agg must use 2D or 3D coordinates
 
 
 ---
