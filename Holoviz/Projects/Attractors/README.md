@@ -105,7 +105,6 @@ The Panel application will open in your browser.
     <td></td>
   </tr>
 </table>
----
 
 ## 🌌 A Small Mathematical System. Endless Patterns.
 
