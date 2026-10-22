@@ -10,6 +10,6 @@ This file tracks the pull requests that have been merged and the issues I’ve h
 ---
 
 ### 🛠️ Issues Solved with Discussions
-- 
+- [Issue #1353](https://github.com/holoviz/datashader/issues/1353) - Gave Proof that `Error while groupby agg must use 2D or 3D coordinates` has been solved with the latest Update.
 
 ---
