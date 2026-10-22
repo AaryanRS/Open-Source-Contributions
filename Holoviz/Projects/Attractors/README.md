@@ -4,7 +4,8 @@ An interactive visualization of **Clifford attractors** built with the HoloViz e
 
 Explore how small changes to four mathematical parameters can produce completely different chaotic patterns — from spirals and rings to butterfly-like structures.
 
-![Clifford Attractor Explorer](images/hero.png)
+<img width="1342" height="1216" alt="Screenshot 2026-10-22 202020" src="https://github.com/user-attachments/assets/6716e4aa-9bd3-4b1a-b958-b28f06f4245b" />
+
 
 ---
 
@@ -63,8 +64,6 @@ There isn't a specific real-world dataset behind it. Instead, the visualization 
 
 It's also a fun example of how **HoloViews + Datashader + Panel** can be combined to build interactive visual experiences from mathematical systems.
 
-![Animation](images/animation.gif)
-
 ---
 
 ## ▶️ Run Locally
@@ -94,14 +93,20 @@ The Panel application will open in your browser.
 
 ## 📸 Gallery
 
-Add your favorite generated patterns here:
-
-![Classic](images/classic.png)
-
-![Spiral](images/spiral.png)
-
-![Butterfly](images/butterfly.png)
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/30fd8c7b-ebf5-4748-86f6-7a0c8d998f9d" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/06e5acee-3c41-452c-9423-669be510a5a3" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/af768b4b-5708-4dfb-ae52-cfdd85a545b0" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/54ea8a46-3a70-4fa7-877b-40e64ad8fa3e" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/14dc0261-fa99-4f05-ab8e-5f9deac37a6f" width="100%"></td>
+    <td></td>
+  </tr>
+</table>
 ---
 
 ## 🌌 A Small Mathematical System. Endless Patterns.
