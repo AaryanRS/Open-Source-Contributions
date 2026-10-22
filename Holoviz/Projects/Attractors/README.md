@@ -40,8 +40,6 @@ That's what makes these systems fun to explore — **simple rules, surprisingly 
 - 💾 Save generated attractors as images
 - ⚡ Supports large point counts for detailed patterns
 
-![Presets](images/presets.png)
-
 ---
 
 ## 🧩 Built With
