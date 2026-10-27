@@ -5,7 +5,7 @@ This file tracks the pull requests that have been merged and the issues I’ve h
 ---
 
 ### ✅ PRs Merged
-- [PR #652](https://github.com/fury-gl/fury/pull/652) – Fix kernel window crash.  
+- [PR #1359](https://github.com/fury-gl/fury/pull/1359) – In need of per-streamline linewidth #860 
 
 ---
 
