@@ -6,7 +6,7 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 
 ### 🔄 Open PRs
 - [PR #1345](https://github.com/fury-gl/fury/pull/1345) – Text positioning issue in TextBlock2D #838
-- [PR #1359](https://github.com/fury-gl/fury/pull/1359) – In need of per-streamline linewidth #860
+- [PR #1359](https://github.com/fury-gl/fury/pull/1359) – In need of per-streamline linewidth #860 ✅
 - [PR #1362](./https://github.com/fury-gl/fury/pull/1362) - Text Background does not alignment with Font Size #1194
 
 
