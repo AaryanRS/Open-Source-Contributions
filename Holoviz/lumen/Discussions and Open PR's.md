@@ -5,16 +5,17 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 ---
 
 ### 🔄 Open PRs
-- [PR #1544](https://github.com/holoviz/datashader/pull/1544) – Fixed: Summary being Sensitive with cvs.line and line_width and more []
-- [PR #1547](https://github.com/holoviz/datashader/pull/1547) – Clean up existing Ruff findings across the Datashader codebase [✅]
+- [PR #2260](https://github.com/holoviz/lumen/pull/2260) – Fixed: Export FunctionTool Calls in Notebooks []
+- [PR #]() –  []
 
 ---
 
 ### 🗣️ Discussions
-- [Discussion #1380](https://github.com/holoviz/datashader/issues/1380) – summary with cvs.line and line_width is sensitive to other inputs in summary
-- [Discussion #1547](https://github.com/holoviz/datashader/pull/1547) – chore: Run ruff lint for codebase- #1547
-- [Discussion #1353](https://github.com/holoviz/datashader/issues/1353) - Error while groupby agg must use 2D or 3D coordinates
-- [Discussion #1404](https://github.com/holoviz/datashader/issues/1404) - Colormap alpha support
+- [Discussion #2130](https://github.com/holoviz/lumen/issues/2130) – Notebook export does not include FunctionTool calls
+- [Discussion #2212](https://github.com/holoviz/lumen/issues/2212) – enh: refresh the splash screen styling
+- [Discussion #2207](https://github.com/holoviz/lumen/issues/2207) - fix: align the expand chevron on planner steps
+- [Discussion #2261](https://github.com/holoviz/lumen/issues/2261) - test suite and Pyright typecheck fail
 
+Opened a Issue [#2261](https://github.com/holoviz/lumen/issues/2261) - Full unit test suite and Pyright typecheck fail on main
 
 ---
