@@ -1,12 +1,11 @@
 # `𝙳𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝙾𝚙𝚎𝚗 𝙿𝚁𝚜`
 
-This file tracks the discussions I’ve participated in and the pull requests I’ve opened across Datashader.
+This file tracks the discussions I’ve participated in and the pull requests I’ve opened across Panel.
 
 ---
 
 ### 🔄 Open PRs
-- [PR #1544](https://github.com/holoviz/datashader/pull/1544) – Fixed: Summary being Sensitive with cvs.line and line_width and more []
-- [PR #1547](https://github.com/holoviz/datashader/pull/1547) – Clean up existing Ruff findings across the Datashader codebase [✅]
+- [PR #8909](https://github.com/holoviz/panel/pull/8909) – Fixed: AutocompleteInput non-string values []
 
 ---
 
