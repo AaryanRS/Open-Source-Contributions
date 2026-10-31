@@ -7,6 +7,7 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 ### 🔄 Open PRs
 - [PR #1544](https://github.com/holoviz/datashader/pull/1544) – Fixed: Summary being Sensitive with cvs.line and line_width and more []
 - [PR #1547](https://github.com/holoviz/datashader/pull/1547) – Clean up existing Ruff findings across the Datashader codebase [✅]
+- [PR #1552](https://github.com/holoviz/datashader/pull/1552) - Fixed: Preserving alpha from callable colormaps. []
 
 ---
 
