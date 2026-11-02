@@ -10,6 +10,6 @@ This file tracks the pull requests that have been merged and the issues I’ve h
 ---
 
 ### 🛠️ Issues Solved with Discussions
-- [Issue #8958](https://github.com/holoviz/panel/issues/8959) - Gave Proof that Panel can have multiple widgets... and each widget might need its own scrollbar
+- []() - 
 
 ---
