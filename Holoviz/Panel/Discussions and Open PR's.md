@@ -6,7 +6,7 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 
 ### 🔄 Open PRs
 - [PR #8909](https://github.com/holoviz/panel/pull/8909) – Fixed: AutocompleteInput non-string values []
-- [PR #788](https://github.com/panel-extensions/panel-material-ui/pull/788) - Fix Page main scrollbar positioning [] --- **This PR is not from this Repo its from `panel-material-ui`**
+- [PR #788](https://github.com/panel-extensions/panel-material-ui/pull/788) - Fix Page main scrollbar positioning [✅] --- **This PR is not from this Repo its from `panel-material-ui`**
 
 ---
 
