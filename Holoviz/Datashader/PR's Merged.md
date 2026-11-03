@@ -6,6 +6,7 @@ This file tracks the pull requests that have been merged and the issues I’ve h
 
 ### ✅ PRs Merged
 - [PR #1547](https://github.com/holoviz/datashader/pull/1547) – Cleaned Ruff Findings across the Datashader codebase chore: Run ruff lint for codebase
+- [PR #1552](https://github.com/holoviz/datashader/pull/1552) - Fixed: Preserving alpha from callable colormaps.
 
 ---
 
