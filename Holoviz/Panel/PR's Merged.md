@@ -5,7 +5,8 @@ This file tracks the pull requests that have been merged and the issues I’ve h
 ---
 
 ### ✅ PRs Merged
-- [788](https://github.com/panel-extensions/panel-material-ui/pull/788) – Fixed Page main scrollbar positioning
+- [PR #788](https://github.com/panel-extensions/panel-material-ui/pull/788) – Fixed Page main scrollbar positioning
+- [PR #8909](https://github.com/holoviz/panel/pull/8909) – Fixed: AutocompleteInput non-string values
 
 ---
 
