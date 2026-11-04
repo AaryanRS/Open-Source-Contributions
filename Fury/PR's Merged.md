@@ -10,6 +10,6 @@ This file tracks the pull requests that have been merged and the issues I’ve h
 ---
 
 ### 🛠️ Issues Solved with Discussions
-- [Issue #652](https://github.com/fury-gl/fury/issues/652) – Kernel crash debugging, provided reproducible steps and fix.  
+- [Issue #1194](./https://github.com/fury-gl/fury/issues/1194) - Gave Proof that This issue is already been solved and can be closed - Text Background now align's with Font Size.
 
 ---
