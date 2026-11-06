@@ -29,7 +29,7 @@ Each organisation will have its own section (or sub‑folder later) where I list
 - Issues solved ✅  
 - Pull requests merged 🔄  
 - Discussions participated in 💬
-- Projects Created with respective to that Org
+- Projects Created with respective to that Org 📽️
 
 This way, anyone visiting can quickly see the scope of my contributions.
 
