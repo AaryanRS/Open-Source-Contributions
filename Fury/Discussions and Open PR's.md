@@ -16,7 +16,7 @@ This file tracks the discussions Iâ€™ve participated in and the pull requests Iâ
 - [Discussion #856](https://github.com/fury-gl/fury/issues/856) - `vector_text()` issue, Provided Proof that the issue was because of the Version Mismatch.
 - [Discussion #531](https://github.com/fury-gl/fury/issues/531) - Proposed a visual tests to come up with the solution
 - [Discussion #1194](./https://github.com/fury-gl/fury/issues/1194) - Text Background now align's with Font Size.
-- [Discussion #1391](https://github.com/fury-gl/fury/issues/1391) - The streamline API does not update outline_thickness.
+- [Discussion #1391](https://github.com/fury-gl/fury/issues/1391) - The streamline API does update outline_thickness.
 - [Discussion #1403](https://github.com/fury-gl/fury/issues/1403) - Padding and Margin across UI
 
 ---
