@@ -7,12 +7,14 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 ### 🔄 Open PRs
 - [PR #8909](https://github.com/holoviz/panel/pull/8909) – Fixed: AutocompleteInput non-string values [✅]
 - [PR #788](https://github.com/panel-extensions/panel-material-ui/pull/788) - Fix Page main scrollbar positioning [✅] --- **This PR is not from this Repo its from `panel-material-ui`**
+- [PR #9046](https://github.com/holoviz/panel/pull/9049) - Fixed: Matplotlib plots now render in same size in HoloViews []⁠
 
 ---
 
 ### 🗣️ Discussions
 - [Discussion #8878](https://github.com/holoviz/panel/issues/8878) – Error raised when setting arbitrary non-string values in AutoCompleteInput with `restrict=False`
 - [Discussion #8959](https://github.com/holoviz/panel/issues/8959) – Issues with scrollbar use in Page template main area
+- [Discussion #9048](https://github.com/holoviz/panel/issues/9048) - Matplotlib plots in a HoloMap or DynamicMap are twice the size of the same plot without widgets
 
 
 
