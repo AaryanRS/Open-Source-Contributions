@@ -18,5 +18,6 @@ This file tracks the discussions Iâ€™ve participated in and the pull requests Iâ
 - [Discussion #1194](./https://github.com/fury-gl/fury/issues/1194) - Text Background now align's with Font Size.
 - [Discussion #1391](https://github.com/fury-gl/fury/issues/1391) - The streamline API does update outline_thickness.
 - [Discussion #1403](https://github.com/fury-gl/fury/issues/1403) - Padding and Margin across UI
+- [Discussion #1417](https://github.com/fury-gl/fury/issues/1417) - Timeline duration stays stale when adding a child animation
 
 ---
