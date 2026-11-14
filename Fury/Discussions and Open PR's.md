@@ -6,6 +6,7 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 
 ### 🔄 Open PRs
 - [PR #1359](https://github.com/fury-gl/fury/pull/1359) – In need of per-streamline linewidth #860 ✅
+- [PR #1422](https://github.com/fury-gl/fury/pull/1422) - BF: Update timeline when adding child animation
 
 
 ---
