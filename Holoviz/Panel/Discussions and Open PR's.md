@@ -15,7 +15,6 @@ This file tracks the discussions I’ve participated in and the pull requests I�
 - [Discussion #8878](https://github.com/holoviz/panel/issues/8878) – Error raised when setting arbitrary non-string values in AutoCompleteInput with `restrict=False`
 - [Discussion #8959](https://github.com/holoviz/panel/issues/8959) – Issues with scrollbar use in Page template main area
 - [Discussion #9048](https://github.com/holoviz/panel/issues/9048) - Matplotlib plots in a HoloMap or DynamicMap are twice the size of the same plot without widgets
-
-
+- [Discussion #9021](https://github.com/holoviz/panel/issues/9021) - Widget sometimes stuck in loading state
 
 ---
